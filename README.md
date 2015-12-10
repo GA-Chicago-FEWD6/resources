@@ -5,7 +5,7 @@ Organized by category. Feel free to add resources by [submitting a pull request]
 
 ## Class-specific Links
 - [Exit Tickets](https://docs.google.com/forms/d/1ulQq_F6q_dMIOxsnmWE-nHJrJJ-Q3mNDQ2ubmDkht24/viewform?c=0&w=1)
-- [Class Screencasts](https://www.youtube.com/playlist?list=PLLtA4cQ4U6QRG5Ay9M9jqGJHaLtBsul1u)
+- [Class Lesson Screencasts YouTube Channel](https://www.youtube.com/playlist?list=PLLtA4cQ4U6QRG5Ay9M9jqGJHaLtBsul1u)
 - [Assignment Submission Guide](assignment-submission.md)
 - [List of class-defined best practices](best-practices.md)
 
