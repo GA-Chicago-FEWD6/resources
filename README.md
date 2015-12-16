@@ -14,6 +14,7 @@ Organized by category. Feel free to add resources by [submitting a pull request]
 - [Can I Use](http://caniuse.com/) (Feature support)
 - [CSS Tricks Almanac](https://css-tricks.com/almanac/)
 - [Full list of inherited CSS properties](inherited-css-properties.md)
+- [HTML5 Doctor](http://html5doctor.com/)
 
 ## Forums/support
 - [Stack Overflow](http://stackoverflow.com/)
