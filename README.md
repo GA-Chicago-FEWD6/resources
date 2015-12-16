@@ -16,6 +16,9 @@ Organized by category. Feel free to add resources by [submitting a pull request]
 - [Full list of inherited CSS properties](inherited-css-properties.md)
 - [HTML5 Doctor](http://html5doctor.com/)
 
+## Books
+- [HTML & CSS + JavaScript & JQuery by John Duckett](http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=pd_sim_sbs_14_2?ie=UTF8&dpID=41hyTxIxT1L&dpSrc=sims&preST=_AC_UL160_SR140%2C160_&refRID=1SRNB3Y7MY8MXANKRPTB)
+
 ## Forums/support
 - [Stack Overflow](http://stackoverflow.com/)
 
