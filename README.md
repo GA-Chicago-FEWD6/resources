@@ -9,6 +9,10 @@ Organized by category. Feel free to add resources by [submitting a pull request]
 - [Assignment Submission Guide](assignment-submission.md)
 - [List of class-defined best practices](best-practices.md)
 
+## General Assembly Stuff
+- [Gallery of Past FEWD Projects](https://gallery.generalassemb.ly/FEWD?metro=)
+- [Dash Tutorials](https://dash.generalassemb.ly/)
+
 ## Documentation
 - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/)
 - [Can I Use](http://caniuse.com/) (Feature support)
