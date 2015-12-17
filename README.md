@@ -19,6 +19,10 @@ Organized by category. Feel free to add resources by [submitting a pull request]
 ## Books
 - [HTML & CSS + JavaScript & JQuery by John Duckett](http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=pd_sim_sbs_14_2?ie=UTF8&dpID=41hyTxIxT1L&dpSrc=sims&preST=_AC_UL160_SR140%2C160_&refRID=1SRNB3Y7MY8MXANKRPTB)
 
+## Front-end Guides
+- [Front-end Developer Handbook](http://www.frontendhandbook.com/)
+- [Advice to Budding Front-end Developers by Harry Roberts](http://csswizardry.com/2014/08/advice-to-budding-front-end-developers/)
+
 ## Forums/support
 - [Stack Overflow](http://stackoverflow.com/)
 
