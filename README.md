@@ -35,6 +35,7 @@ Organized by category. Feel free to add resources by [submitting a pull request]
 - Keyboard Shortcuts Cheat Sheet: [Mac](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)/[Windows](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
 - [Unofficial Documentation](http://docs.sublimetext.info/en/latest/index.html)
 - [Perfect Worflow in Sublime Text 2 Video Tutorials](https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
+- [18 Essential Sublime Text Plugins](http://www.hongkiat.com/blog/sublime-text-plugins/)
 
 ## Chrome Developer Tools
 - [An overview](https://developer.chrome.com/devtools)
